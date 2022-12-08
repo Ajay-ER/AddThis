@@ -1,0 +1,109 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.buttonDash{
+    border:2px solid black;
+    border-radius: 30px;
+
+}
+
+
+.navbar-nav {
+    font-size: 18px;
+}
+.nav-link{
+    margin-right: 20px;
+}
+
+.heading{
+    color: black;
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 70px;
+}
+
+span{
+    color: blue;
+    
+}
+
+.buttontwo{
+    background-image: linear-gradient(45deg, #3D41DA 0%, #0088F7 100%);
+}
+.buttontwo:hover{
+    text-decoration: underline;
+    
+}
+
+.newbuttongg {
+    border-color: wheat;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius:100%;
+}
+
+.newbuttonfb {
+    border-color: wheat;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius:100%;
+}
+
+
+
+
+.tool-tabs li{
+    max-width: 400px;
+    border-radius: 2px solid blue;
+    cursor: pointer;
+} 
+
+.tool-tabs li:hover{
+    width: fit-content;
+    color: #0088F7;
+}
+
+.module-show{
+    padding-top: 200px;
+    font-weight: 900;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.blue-section{
+    background-image: linear-gradient(-135deg, #3D41DA 0%, #1E1F44 100%);
+    color: white;
+}
+
+.cardSec{
+    height: 50vh;
+    padding-top: 100px;
+}
+
+.onemargin{
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+}
+
+.buttonlast{
+    background-image: linear-gradient(45deg, #3D41DA 0%, #0088F7 100%);
+}
+
+.mids{
+    padding: 200px;
+    background-color: #BDF5E1;
+}
+
+.cont{
+    padding-top: 100px;
+
+}
+
+.text-center{
+    padding-left:40px;
+}
+
+
